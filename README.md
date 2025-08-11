@@ -3,8 +3,17 @@
 -->Create React App
 -->Configured TailwindCSS 
 -->Built the header 
+-->Routing 
 -->Need to bult the login Form --- Done
 -->Sign Up Form 
+-->Form validations
+-->useRef
+-->Firebase setup
+-->Deploying our app to production
+-->create sign up user in firebase
+-->creates sign up 
+-->implemented sign in user APi
+-->created a redux toolkit
 
 
 # Features
